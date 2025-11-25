@@ -119,11 +119,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 ## � GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdxStackDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdxStackDev&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdxStackDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdxStackDev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
 </p>
@@ -162,13 +157,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- <div align="center">
-
-## ⚡ Recent Activity
-
-</div> -->
 
 <div align="center">
 
