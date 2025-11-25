@@ -182,36 +182,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Blogging", "Open Source"]
 
 <div align="center">
 
-## 🎲 Fun Facts
-
-```javascript
-const aditya = {
-    code: ["PHP", "Python", "JavaScript"],
-    askMeAbout: ["web dev", "API integration", "cloud computing", "database design"],
-    technologies: {
-        backEnd: {
-            php: ["Laravel", "CodeIgniter"],
-            python: ["Django", "Flask"],
-        },
-        frontEnd: {
-            js: ["jQuery", "Vanilla JS"],
-            css: ["Bootstrap", "Tailwind CSS"]
-        },
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        cloud: ["AWS"],
-        apis: ["QuickBooks", "HubSpot", "Shopify", "Square", "Plaid"]
-    },
-    currentFocus: "Building scalable web applications with seamless API integrations",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
 ## 💼 Work With Me
 
 I'm available for:
