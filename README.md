@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Dixit;Full+Stack+Developer;Laravel+%7C+WordPress+%7C+Python;API+Integration+Specialist;Cloud+%26+Database+Enthusiast;Open+to+Freelance+%26+Full-Time+Roles" alt="Typing introduction for Aditya Dixit" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:7C3AED,100:A855F7&text=Aditya%20Dixit&fontColor=FFFFFF&fontSize=54&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20WordPress%20%7C%20API%20Integration%20%7C%20Cloud%20%26%20Database&descSize=17&descAlignY=55&animation=twinkling" alt="Aditya Dixit profile banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Aditya%20Dixit&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20API%20Integration%20%7C%20Cloud%20%26%20Database%20Solutions&descAlignY=55&descSize=16" width="100%" alt="Profile banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I+am+Aditya+Dixit;Full+Stack+Developer+from+India;Laravel+%7C+WordPress+%7C+Python+%7C+MySQL;API+Integration+and+Automation+Specialist;Building+Scalable+Web+Solutions" alt="Typing SVG introduction" />
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdxStackDev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AdxStackDev&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AdxStackDev?label=Followers&style=for-the-badge&color=0EA5E9" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Available-Freelance%20%26%20Full--Time-22C55E?style=for-the-badge" alt="Available for freelance and full-time work" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-22C55E?style=for-the-badge" alt="Available for work" />
+  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge" alt="Location India" />
 </p>
 
 <p align="center">
@@ -17,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://adx.net.in/adx/resume2/aditya.html">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:dixit99304@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -27,70 +28,122 @@
   </a>
 </p>
 
----
+<br>
 
-## ðŸ‘¨â€ðŸ’» About Me
+<div align="center">
 
-I am **Aditya Dixit**, a full-stack developer from India with hands-on experience in building dynamic websites, custom web applications, API integrations, CMS solutions, and database-driven systems. I enjoy turning business requirements into clean, scalable, and practical digital products.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=I+build+fast%2C+secure%2C+and+business-ready+web+applications.;I+connect+websites+with+APIs%2C+CRMs%2C+payments%2C+and+automation.;I+love+solving+real-world+problems+with+clean+code." alt="Developer value statement" />
 
-My core work revolves around **Laravel, PHP, WordPress, MySQL, JavaScript, Python, API integrations, and cloud deployment**. I am also actively expanding into **AI/ML integration, automation workflows, Docker, cloud architecture, and modern DevOps practices**.
-
-```yaml
-name: Aditya Dixit
-location: India ðŸ‡®ðŸ‡³
-role: Full Stack Developer
-focus:
-  - Web Application Development
-  - Laravel & PHP Development
-  - WordPress Theme & Plugin Customization
-  - API Integration & Automation
-  - Database Design & Optimization
-  - Cloud Deployment & DevOps
-currently_learning:
-  - AI/ML Integration
-  - Docker & Containerization
-  - Advanced Cloud Architecture
-  - Microservices
-  - Python Automation
-open_to:
-  - Freelance Projects
-  - Full-Time Developer Roles
-  - API Integration Work
-  - WordPress & Laravel Projects
-```
+</div>
 
 ---
 
-## ðŸš€ What I Do
+## About Me
+
+I am **Aditya Dixit**, a full-stack web developer from India focused on building practical, scalable, and business-ready digital products. I work across backend development, frontend implementation, CMS customization, API integration, database design, deployment, and automation.
+
+My strongest areas are **Laravel, PHP, WordPress, MySQL, JavaScript, Python, REST APIs, cloud deployment, and business integrations**. I am also actively growing in **AI/ML integration, Docker, DevOps, microservices, automation workflows, and local AI tools**.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Full Stack Development</h3>
-      <p>Custom web applications, admin dashboards, business portals, REST APIs, authentication systems, and database-backed platforms using PHP, Laravel, JavaScript, Python, and MySQL.</p>
+      <h3>Current Role</h3>
+      <p>Full Stack Developer</p>
     </td>
     <td width="50%">
-      <h3>WordPress & CMS Development</h3>
-      <p>Custom WordPress websites, Elementor customization, theme edits, plugin configuration, performance improvements, form setup, and CMS maintenance.</p>
+      <h3>Primary Focus</h3>
+      <p>Web apps, APIs, WordPress, Laravel, databases, and deployment</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>API & Third-Party Integrations</h3>
-      <p>Payment gateways, CRM integrations, business automation, SaaS APIs, email services, accounting tools, and secure data exchange between platforms.</p>
+      <h3>Learning Now</h3>
+      <p>AI agents, Docker, cloud architecture, Python automation, and DevOps</p>
     </td>
     <td width="50%">
-      <h3>Cloud, Database & Deployment</h3>
-      <p>Server setup, database management, Linux hosting, deployment troubleshooting, SMTP configuration, backup workflows, and cloud-based application hosting.</p>
+      <h3>Open To</h3>
+      <p>Freelance projects, full-time roles, collaborations, and API integration work</p>
+    </td>
+  </tr>
+</table>
+
+```yaml
+name: Aditya Dixit
+role: Full Stack Developer
+location: India
+core_stack:
+  - PHP
+  - Laravel
+  - WordPress
+  - JavaScript
+  - Python
+  - MySQL
+  - REST APIs
+  - Cloud Deployment
+specialties:
+  - Custom Web Applications
+  - WordPress Theme and Plugin Customization
+  - API Integration and Automation
+  - Database Design and Optimization
+  - SMTP and Email Integration
+  - Deployment and Server Troubleshooting
+currently_learning:
+  - AI Agent Development
+  - AI/ML Integration
+  - Docker and Containerization
+  - Advanced Cloud Architecture
+  - Microservices
+  - Python Automation
+```
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Web Applications</h3>
+      <p>Custom dashboards, admin panels, business portals, authentication systems, CRUD applications, booking systems, and database-driven platforms.</p>
+    </td>
+    <td width="50%">
+      <h3>Laravel Solutions</h3>
+      <p>Backend systems, REST APIs, role-based access, payment integration, database optimization, queues, email workflows, and scalable app architecture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>WordPress Development</h3>
+      <p>Elementor customization, theme edits, plugin setup, forms, SMTP configuration, speed optimization, security hardening, and maintenance.</p>
+    </td>
+    <td width="50%">
+      <h3>API Integrations</h3>
+      <p>Payment gateways, CRMs, accounting tools, SaaS platforms, email services, lead capture, automation workflows, and third-party data sync.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Cloud and Deployment</h3>
+      <p>Linux hosting, cloud deployment, database setup, cPanel, server debugging, Git workflows, environment configuration, and backup planning.</p>
+    </td>
+    <td width="50%">
+      <h3>AI and Automation</h3>
+      <p>AI-assisted workflows, Python automation, document processing ideas, RAG experiments, local LLM exploration, and agent-based productivity tools.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
-### Languages
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,python,mysql,postgres,mongodb,html,css,bootstrap,tailwind,jquery,django,flask,aws,docker,linux,git,github,vscode,postman,npm&perline=12" alt="Technology icons" />
+
+</div>
+
+### Languages and Core Web
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -99,7 +152,7 @@ open_to:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks, CMS & Libraries
+### Backend, CMS and Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -107,9 +160,14 @@ open_to:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+
+### Frontend and UI
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 
@@ -118,7 +176,7 @@ open_to:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Cloud, DevOps & Tools
+### Cloud, DevOps and Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -130,7 +188,7 @@ open_to:
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### API, Payments & Business Integrations
+### API, Payments and Business Tools
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
@@ -144,48 +202,111 @@ open_to:
 
 ---
 
-## ðŸ“Œ Featured Focus Areas
+## Skill Focus
 
-```text
-Backend Development      â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 95%
-API Integration          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 98%
-Database Design          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 92%
-Frontend Development     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 90%
-Cloud & DevOps           â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘ 85%
-WordPress Development    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 95%
-```
+<table>
+  <tr>
+    <td width="50%">
+      <b>Backend Development</b><br>
+      <img src="https://geps.dev/progress/95?dangerColor=7C2D12&warningColor=CA8A04&successColor=A855F7" alt="Backend Development 95 percent" />
+    </td>
+    <td width="50%">
+      <b>API Integration</b><br>
+      <img src="https://geps.dev/progress/98?dangerColor=7C2D12&warningColor=CA8A04&successColor=A855F7" alt="API Integration 98 percent" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Database Design</b><br>
+      <img src="https://geps.dev/progress/92?dangerColor=7C2D12&warningColor=CA8A04&successColor=A855F7" alt="Database Design 92 percent" />
+    </td>
+    <td width="50%">
+      <b>Frontend Development</b><br>
+      <img src="https://geps.dev/progress/90?dangerColor=7C2D12&warningColor=CA8A04&successColor=A855F7" alt="Frontend Development 90 percent" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>WordPress Development</b><br>
+      <img src="https://geps.dev/progress/95?dangerColor=7C2D12&warningColor=CA8A04&successColor=A855F7" alt="WordPress Development 95 percent" />
+    </td>
+    <td width="50%">
+      <b>Cloud and DevOps</b><br>
+      <img src="https://geps.dev/progress/85?dangerColor=7C2D12&warningColor=CA8A04&successColor=A855F7" alt="Cloud and DevOps 85 percent" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ðŸ“Š GitHub Insights
+## GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdxStackDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdxStackDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdxStackDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdxStackDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top languages" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdxStackDev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="GitHub activity graph" />
+<br><br>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=AdxStackDev&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF7A18&currStreakLabel=A855F7" alt="GitHub streak stats" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdxStackDev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="GitHub activity graph" />
+
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AdxStackDev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
 
 </div>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## ðŸ’¼ Work With Me
+## How I Work
 
-I am available for freelance projects, full-time developer roles, and technical collaboration. I can help with custom web development, Laravel applications, WordPress customization, API integrations, database-driven systems, deployment, and performance troubleshooting.
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/01-Understand-7C3AED?style=for-the-badge" alt="Step 1 Understand" />
+      <br><br>
+      <p>Requirement analysis, goals, user flow, and technical scope.</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/02-Build-0EA5E9?style=for-the-badge" alt="Step 2 Build" />
+      <br><br>
+      <p>Clean code, reusable structure, database planning, and API-first thinking.</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/03-Test-22C55E?style=for-the-badge" alt="Step 3 Test" />
+      <br><br>
+      <p>Debugging, browser testing, API testing, performance checks, and fixes.</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/04-Deploy-F97316?style=for-the-badge" alt="Step 4 Deploy" />
+      <br><br>
+      <p>Hosting setup, deployment, server checks, email setup, and handover.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Work With Me
+
+I am available for **freelance projects**, **full-time developer roles**, and **technical collaborations**. I can help with custom web development, Laravel applications, WordPress customization, API integrations, database-driven systems, deployment, SMTP/email setup, and performance troubleshooting.
 
 <div align="center">
 
 <a href="mailto:dixit99304@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
 <a href="https://adx.net.in/adx/resume2/aditya_dixit_resume.pdf">
   <img src="https://img.shields.io/badge/Download-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download resume" />
@@ -198,11 +319,11 @@ I am available for freelance projects, full-time developer roles, and technical 
 
 ---
 
-## ðŸ’­ Developer Quote
+## Developer Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote" />
+<img width="90%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote" />
 
 </div>
 
@@ -210,10 +331,10 @@ I am available for freelance projects, full-time developer roles, and technical 
 
 <div align="center">
 
-### Thanks for visiting my profile
+<h3>Thanks for visiting my profile</h3>
 
-If you like my work, feel free to explore my repositories and connect with me.
+<p>If you like my work, feel free to explore my repositories, connect with me, or reach out for collaboration.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,50:7C3AED,100:A855F7&animation=twinkling" alt="Footer wave" />
 
 </div>
