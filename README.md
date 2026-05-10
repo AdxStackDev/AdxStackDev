@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:7C3AED,100:A855F7&text=Aditya%20Dixit&fontColor=FFFFFF&fontSize=54&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20WordPress%20%7C%20API%20Integration%20%7C%20Cloud%20%26%20Database&descSize=17&descAlignY=55&animation=twinkling" alt="Aditya Dixit profile banner" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I+am+Aditya+Dixit;Full+Stack+Developer+from+India;Laravel+%7C+WordPress+%7C+Python+%7C+MySQL;API+Integration+and+Automation+Specialist;Building+Scalable+Web+Solutions" alt="Typing SVG introduction" />
 
 </div>
