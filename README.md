@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/aditya-dixit-6b10a625b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://adx.net.in/adx/resume2/aditya.html">
+  <a href="https://adxdev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:dixit99304@gmail.com">
@@ -253,18 +253,9 @@ currently_learning:
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdxStackDev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="GitHub activity graph" />
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdxStackDev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
-
 </div>
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdxStackDev/AdxStackDev/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
