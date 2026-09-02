@@ -30,13 +30,13 @@
 
 ## About Me
 
-I am **Aditya Dixit**, a backend and full-stack engineer from India focused on building **AI-enabled web applications, SaaS platforms, APIs, and data-intensive systems**. I work primarily with **Laravel/PHP, Python, REST APIs, relational and NoSQL databases, cloud deployment, and automation**, with an emphasis on shipping reliable, business-ready products.
+I am **Aditya Dixit**, a full-stack engineer from India focused on building **AI-enabled web applications, SaaS platforms, APIs and data-intensive systems**. I work primarily with **Laravel/PHP, Python, AI tools & Models, REST APIs, relational and NoSQL databases, cloud deployment, and automation**, with an emphasis on shipping reliable, business-ready products.
 
 I enjoy turning unclear business needs into maintainable software: from architecture and database design through API integrations, deployment, monitoring, and iteration. Alongside backend engineering, I build privacy-conscious AI tools using RAG, local LLMs, document processing, and machine-learning workflows.
 
 ```yaml
 name: Aditya Dixit
-role: Backend & Full-Stack Engineer
+role: Full-Stack Engineer
 location: India
 core_stack:
   - PHP / Laravel
